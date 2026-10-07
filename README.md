@@ -12,7 +12,7 @@
 
 ### 💫 关于我 (About Me)
 
-- 📍 坐标 **日本 (Japan 🇯🇵)**，热衷于探索前沿软件技术与软硬件性能优化。
+- 📍 坐标 **日本 (Japan)**，热衷于探索前沿软件技术与软硬件性能优化。
 - 🍏 深度专注于 **macOS / Apple Silicon** 生态、底层系统虚拟化与游戏性能体验。
 - 🛠️ 积极参与开源，喜欢用优雅的代码和脚本把复杂的问题简单化、自动化。
 - 🎮 游戏玩家，致力于推动 Mac 平台上的原生效能与本地化生态发展。
@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🇨🇳 FX Steam Launcher 简体中文汉化补丁</a></h3>
+      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher 简体中文汉化补丁</a></h3>
       <p>专为 Apple Silicon (M1/M2/M3/M4) Mac 打造的 SteamOS 原生虚拟机启动器深度汉化项目。</p>
       <ul>
         <li>✨ 全界面菜单与偏好设置原生深度汉化</li>
