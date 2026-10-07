@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20Localization-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="Featured Project" /></a>
+  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="Featured Project" /></a>
 </p>
 
 ---
@@ -24,17 +24,17 @@
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher Chinese Localization Patch</a></h3>
-      <p>A native localization project for FX Steam Launcher (SteamOS ARM64 virtual machine launcher), built specifically for Apple Silicon (M1/M2/M3/M4) Macs.</p>
+      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher 中文汉化补丁 (简体 & 繁體)</a></h3>
+      <p>专为 Apple Silicon (M1/M2/M3/M4) Mac 打造的 SteamOS 原生虚拟机启动器深度中文汉化项目。</p>
       <ul>
-        <li>🌐 Full native support for both <b>Simplified Chinese (zh-Hans)</b> and <b>Traditional Chinese (zh-Hant)</b></li>
-        <li>⚡ 50% lighter binary footprint with zero telemetry bloat (clean 4.1 MB binary)</li>
-        <li>🎮 Full hardware acceleration with DualSense passthrough, MetalFX upscaling, and Metal HUD</li>
-        <li>🚀 Seamless one-line terminal installer and instant lossless recovery</li>
+        <li>🌐 完整支持简体中文 (zh-Hans) 与繁體中文 (zh-Hant) 原生双语</li>
+        <li>⚡ 剔除臃肿第三方遥测追踪，体积精简 50%，零延迟更纯净 (4.1 MB)</li>
+        <li>🎮 完美支持 DualSense 手柄直通、MetalFX 超分与 Metal 性能监控</li>
+        <li>🚀 终端单行命令一键秒级安装与无损还原</li>
       </ul>
       <p>
         <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/stargazers"><img src="https://img.shields.io/github/stars/Usagi53Q/fx-steam-launcher-zh?style=flat&color=yellow" alt="Stars" /></a>
-        <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/releases"><img src="https://img.shields.io/github/v/release/Usagi53Q/fx-steam-launcher-zh?label=Release&color=brightgreen" alt="Release" /></a>
+        <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/releases"><img src="https://img.shields.io/github/v/release/Usagi53Q/fx-steam-launcher-zh?label=%E7%89%88%E6%9C%AC&color=brightgreen" alt="版本" /></a>
       </p>
     </td>
     <td width="40%" align="center">
