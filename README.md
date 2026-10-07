@@ -5,41 +5,41 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20%E6%B1%89%E5%8C%96%E9%A1%B9%E7%9B%AE-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="Featured Project" /></a>
+  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20Localization-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="Featured Project" /></a>
 </p>
 
 ---
 
-### 💫 关于我 (About Me)
+### 💫 About Me
 
-- 💻 热衷于探索前沿软件开发、自动化工具与系统性能优化。
-- 🍏 深度专注于 **macOS / Apple Silicon** 生态、底层系统虚拟化与游戏性能体验。
-- 🛠️ 积极参与开源，喜欢用优雅的代码和脚本把复杂的问题简单化、自动化。
-- 🎮 游戏玩家，致力于推动 Mac 平台上的原生效能与本地化体验。
+- 💻 Passionate about software development, systems performance tuning, and developer tooling.
+- 🍏 Dedicated to the **macOS / Apple Silicon** ecosystem, virtualization, and native gaming experiences.
+- 🛠️ Open-source contributor focused on turning complex workflows into clean, automated solutions.
+- 🎮 Gamer & engineer exploring cutting-edge graphics, virtualization runtimes, and low-latency architectures.
 
 ---
 
-### 🌟 精选开源项目 (Featured Project)
+### 🌟 Featured Project
 
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher 中文汉化补丁 (简体 & 繁體)</a></h3>
-      <p>专为 Apple Silicon (M1/M2/M3/M4) Mac 打造的 SteamOS 原生虚拟机启动器深度中文汉化项目。</p>
+      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher Chinese Localization Patch</a></h3>
+      <p>A native localization project for FX Steam Launcher (SteamOS ARM64 virtual machine launcher), built specifically for Apple Silicon (M1/M2/M3/M4) Macs.</p>
       <ul>
-        <li>🌐 完整支持简体中文 (zh-Hans) 与繁體中文 (zh-Hant) 原生双语</li>
-        <li>⚡ 剔除臃肿第三方遥测追踪，体积精简 50%，零延迟更纯净</li>
-        <li>🎮 完美支持 DualSense 手柄直通、MetalFX 超分与 Metal 性能监控</li>
-        <li>🚀 终端单行命令一键秒级安装与无损还原</li>
+        <li>🌐 Full native support for both <b>Simplified Chinese (zh-Hans)</b> and <b>Traditional Chinese (zh-Hant)</b></li>
+        <li>⚡ 50% lighter binary footprint with zero telemetry bloat (clean 4.1 MB binary)</li>
+        <li>🎮 Full hardware acceleration with DualSense passthrough, MetalFX upscaling, and Metal HUD</li>
+        <li>🚀 Seamless one-line terminal installer and instant lossless recovery</li>
       </ul>
       <p>
         <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/stargazers"><img src="https://img.shields.io/github/stars/Usagi53Q/fx-steam-launcher-zh?style=flat&color=yellow" alt="Stars" /></a>
-        <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/releases"><img src="https://img.shields.io/github/v/release/Usagi53Q/fx-steam-launcher-zh?label=%E7%89%88%E6%9C%AC&color=brightgreen" alt="Release" /></a>
+        <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh/releases"><img src="https://img.shields.io/github/v/release/Usagi53Q/fx-steam-launcher-zh?label=Release&color=brightgreen" alt="Release" /></a>
       </p>
     </td>
     <td width="40%" align="center">
       <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">
-        <img src="https://raw.githubusercontent.com/Usagi53Q/fx-steam-launcher-zh/main/docs/settings-general.png" width="100%" alt="项目预览" style="border-radius: 8px;" />
+        <img src="https://raw.githubusercontent.com/Usagi53Q/fx-steam-launcher-zh/main/docs/settings-general.png" width="100%" alt="Project Preview" style="border-radius: 8px;" />
       </a>
     </td>
   </tr>
@@ -47,9 +47,9 @@
 
 ---
 
-### 🛠️ 技术栈与工具箱 (Tech Stack & Tools)
+### 🛠️ Tech Stack & Toolbox
 
-#### 编程语言 (Languages)
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 系统与平台 (Platforms & Environments)
+#### Platforms & Environments
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Apple_Silicon-999999?style=flat-square&logo=apple&logoColor=white" alt="Apple Silicon" />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/SteamOS-1B2838?style=flat-square&logo=steam&logoColor=white" alt="SteamOS" />
 </p>
 
-#### 工具与工作流 (Tools & DevOps)
+#### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub 活跃度与统计 (GitHub Stats)
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Usagi53Q&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Usagi53Q GitHub Stats" />
