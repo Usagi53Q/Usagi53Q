@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher 简体中文汉化补丁</a></h3>
-      <p>专为 Apple Silicon (M1/M2/M3/M4) Mac 打造的 SteamOS 原生虚拟机启动器深度汉化项目。</p>
+      <h3><a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">🎮 FX Steam Launcher 中文汉化补丁 (简体 & 繁體)</a></h3>
+      <p>专为 Apple Silicon (M1/M2/M3/M4) Mac 打造的 SteamOS 原生虚拟机启动器深度中文汉化项目。</p>
       <ul>
-        <li>✨ 全界面菜单与偏好设置原生深度汉化</li>
+        <li>🌐 完整支持简体中文 (zh-Hans) 与繁體中文 (zh-Hant) 原生双语</li>
         <li>⚡ 剔除臃肿第三方遥测追踪，体积精简 50%，零延迟更纯净</li>
         <li>🎮 完美支持 DualSense 手柄直通、MetalFX 超分与 Metal 性能监控</li>
         <li>🚀 终端单行命令一键秒级安装与无损还原</li>
