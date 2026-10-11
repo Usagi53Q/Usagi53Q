@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="Featured Project" /></a>
+  <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh"><img src="https://img.shields.io/badge/Featured-FX%20Steam%20Launcher%20%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81-brightgreen?style=for-the-badge&logo=steam&logoColor=white" alt="FX Steam Launcher 中文汉化补丁" /></a>
+  <a href="https://github.com/Usagi53Q/highball-zh"><img src="https://img.shields.io/badge/Featured-Highball%20%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81-f59e0b?style=for-the-badge&logo=apple&logoColor=white" alt="Highball 中文汉化补丁" /></a>
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 <table>
   <tr>
@@ -41,6 +42,22 @@
       <a href="https://github.com/Usagi53Q/fx-steam-launcher-zh">
         <img src="https://raw.githubusercontent.com/Usagi53Q/fx-steam-launcher-zh/main/docs/settings-general.png" width="100%" alt="Project Preview" style="border-radius: 8px;" />
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/Usagi53Q/highball-zh">🥃 Highball 中文汉化补丁 (简体 & 繁體)</a></h3>
+      <p>专为 macOS (Apple Silicon) 开源 Windows 游戏启动器 Highball (v0.10.10) 打造的完整简繁双语汉化补丁。</p>
+      <ul>
+        <li>🌐 100% 覆盖全部 530+ 条界面词条、游戏兼容性评估、启动计划与异常恢复引导</li>
+        <li>🔄 同时内置简体中文 (zh-Hans) 与繁體中文 (zh-Hant)，支持跨系统语言一键切换</li>
+        <li>⚙️ 完整汉化 Lossless Scaling 帧生成、DXMT / D3DMetal / DXVK 图形层与容器管理</li>
+        <li>🛡️ 提供一键安装与无损卸载还原脚本，自动保留原版备份</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Usagi53Q/highball-zh/stargazers"><img src="https://img.shields.io/github/stars/Usagi53Q/highball-zh?style=flat&color=yellow" alt="Stars" /></a>
+        <a href="https://github.com/Usagi53Q/highball-zh/releases"><img src="https://img.shields.io/github/v/release/Usagi53Q/highball-zh?label=%E7%89%88%E6%9C%AC&color=f59e0b" alt="版本" /></a>
+      </p>
     </td>
   </tr>
 </table>
